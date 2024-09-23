@@ -33,6 +33,9 @@ select{
     border-top: 0px;
     border-left: 0px;
     border-right:0px;
+    outline: none;
+    
+    
 }
 h1{
     color: rgb(4, 105, 71);
@@ -41,3 +44,6 @@ button{
     width: 20%;
     height: 25%;
 }
+
+
+
