@@ -1,0 +1,19 @@
+#option{
+    border: 1px solid black;
+border-radius: 5px;
+margin-left: -900px;
+width: 600px;
+margin-left: 5%;
+margin-top: 10px;
+}
+#size{
+    height:50px ;
+    width:80px ;
+    margin-left: 20px;
+    position: relative;
+    top: 15px;
+}
+input{
+    
+    right: 100px;
+}
