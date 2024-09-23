@@ -3,7 +3,8 @@ body {
 }
 header {
     color: white;
-    text-transform: uppercase;
+    text-transform: uppercase; 
+    
 }
 .form-label {
     text-transform: uppercase;
