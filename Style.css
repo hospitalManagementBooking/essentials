@@ -1,0 +1,43 @@
+body{
+    background-image: url(img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+
+
+.a{
+    width: 50%;
+    border: solid 1px wheat;
+   margin-left: 25%;
+   background-color: aliceblue;
+   box-shadow: 4px 4px 3px;
+   border-radius: 4px;
+}
+input{
+    margin: 20px;
+    width: 70%;
+  border-top: 0px;
+  border-left: 0px;
+  border-right:0px;
+    height: 20px;
+    outline: none;
+   
+    
+}
+select{
+    
+    margin: 20px;
+   width: 70%;
+    border-top: 0px;
+    border-left: 0px;
+    border-right:0px;
+}
+h1{
+    color: rgb(4, 105, 71);
+}
+button{
+    width: 20%;
+    height: 25%;
+}
